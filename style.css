@@ -476,3 +476,20 @@ form .send-btn:hover {
        font-size: 0.938rem; 
     }
 }
+@media (max-width: 991px){
+.about-text p{
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+}
+@media (max-width: 991px){
+    .social{
+        margin-left: 2rem;
+    }
+}
+@media (max-width: 991px){
+    .textps{
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+}
